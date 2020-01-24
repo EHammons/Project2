@@ -8,7 +8,7 @@ Fauz Ahmed, Gordon Coutret
 Project Description: 
 
 This application will serve as a safe space for like-minded enlightened thinkers to spew their garbage about the hidden truths that permeate our lives. 
-Those who fail to see clearly through the dubious illusions created by the government, big industry, and other shadow syndicates, will often refer to these truths as "conspiracies". Free from the shackles and judgement of those who doubt, ________ is here to open the eyes of those who's eyes are already open. 
+Those who fail to see clearly through the dubious illusions created by the government, big industry, and other shadow syndicates, will often refer to these truths as "conspiracies". Free from the shackles and judgement of those who doubt, Seek the Truth is here to open the eyes of those who's eyes are already open. 
 
 
 Technologies:
@@ -20,7 +20,7 @@ sequelize
 User Authentication
 
 Sketch:
-![Sketch of site layout](public/images/project2sketch.jpg)
+![Sketch of site layout](public/images/concept.jpg)
 
 Api:
 User login authenticator.
