@@ -45,8 +45,8 @@ List of features ready and TODOs for future development:
 Project is: _finished_
 
 ## Inspiration
-Based on the project 2 assignment for The Coding Bootcamp at UT Austin.
 Inspired by a love of having fun and spoofing conspiracy theories.
+Based on the project 2 assignment for The Coding Bootcamp at UT Austin.
 
 ## Contact
 Created by Elise Hammons (and project group 2) - feel free to contact me!
